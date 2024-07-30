@@ -10,4 +10,4 @@ To detect unhealthy regions of plant leaves. Classification of plant leaf diseas
 
 The aim of this project is to develop a plant disease detection system using the EfficientNet-B0 model, which is implemented in **TensorFlow framework**. The proposed system utilizes Convolutional Neural Networks (CNN) to accurately identify and classify various diseases affecting plants.
 
-The datasets used in this project is sourced from kaggle-https://www.kaggle.com/code/jeevanathanv/newplant-disease-dataset-efficientnet-99-86
+The datasets used in this project is sourced from kaggle-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
